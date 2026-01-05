@@ -99,7 +99,3 @@ k8s-production-setup/
 - Image scanning
 - Compliance scanning
 
-## License
-
-MIT License
-
